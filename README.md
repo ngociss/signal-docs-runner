@@ -63,9 +63,8 @@ Logs: https://github.com/ngociss/signal-docs-runner/actions/workflows/daily-inge
 
 ## Sample Answer Screenshot
 
-TODO: Add screenshot showing the assistant answering "How do I add a YouTube video?" with cited article URLs.
+![Assistant answer for YouTube question](screenshots/youtube-answer.png)
 
 ## Chunking Strategy
 
 Gemini File Search is configured with whitespace chunking at 512 max tokens per chunk and 64 overlap tokens. The run log prints the estimated number of chunks embedded for changed files.
-
