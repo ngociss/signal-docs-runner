@@ -30,11 +30,11 @@ def main() -> int:
         f"updated={len(changes.updated)} "
         f"skipped={len(changes.skipped)} "
         f"uploaded={upload_result.uploaded_count} "
-        f"chunks={upload_result.chunk_count}"
+        f"chunks={upload_result.chunk_count} "
+        f"store={upload_result.store_name or 'not-configured'}"
     )
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

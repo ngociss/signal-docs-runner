@@ -1,8 +1,8 @@
 .env
-.venv/
+.git
+.venv
 __pycache__/
 *.py[cod]
 .pytest_cache/
-
-data/manifest.json
 logs/
+
