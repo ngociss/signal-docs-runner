@@ -16,11 +16,23 @@ def main() -> int:
     article_limit = int(os.getenv("ARTICLE_LIMIT", "30"))
     support_base_url = os.getenv("SUPPORT_BASE_URL", "https://support.optisigns.com")
 
+    print(f"Fetching up to {article_limit} articles from {support_base_url}", flush=True)
     articles = fetch_articles(base_url=support_base_url, limit=article_limit)
+    print(f"Fetched {len(articles)} articles", flush=True)
+
     markdown_articles = write_markdown_files(articles)
+    print(f"Wrote {len(markdown_articles)} Markdown files", flush=True)
 
     manifest = load_manifest()
     changes = diff_articles(markdown_articles, manifest)
+    print(
+        "Detected changes: "
+        f"added={len(changes.added)} "
+        f"updated={len(changes.updated)} "
+        f"skipped={len(changes.skipped)}",
+        flush=True,
+    )
+
     upload_result = upload_changed_articles(changes)
     save_manifest(manifest, changes, upload_result)
 
@@ -31,7 +43,8 @@ def main() -> int:
         f"skipped={len(changes.skipped)} "
         f"uploaded={upload_result.uploaded_count} "
         f"chunks={upload_result.chunk_count} "
-        f"store={upload_result.store_name or 'not-configured'}"
+        f"store={upload_result.store_name or 'not-configured'}",
+        flush=True,
     )
     return 0
 

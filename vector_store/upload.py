@@ -47,6 +47,7 @@ def upload_changed_articles(changes: ArticleChanges) -> UploadResult:
     chunk_count = 0
 
     for article in changed:
+        print(f"Uploading {article.path.name} to Gemini File Search", flush=True)
         operation = client.file_search_stores.upload_to_file_search_store(
             file=str(article.path),
             file_search_store_name=store_name,
@@ -63,6 +64,7 @@ def upload_changed_articles(changes: ArticleChanges) -> UploadResult:
         operation = _wait_for_operation(client, operation)
         file_ids_by_url[article.url] = _operation_resource_name(operation)
         chunk_count += _estimate_chunk_count(article.path.read_text(encoding="utf-8"))
+        print(f"Uploaded {article.path.name}", flush=True)
 
     return UploadResult(
         uploaded_count=len(changed),
