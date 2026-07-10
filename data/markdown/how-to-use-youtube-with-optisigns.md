@@ -1,7 +1,7 @@
 ---
 title: "How to use YouTube with OptiSigns"
 article_url: "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns"
-source_updated_at: "2025-10-23T21:46:24Z"
+source_updated_at: "2026-07-08T15:01:25Z"
 ---
 
 # How to use YouTube with OptiSigns
@@ -36,14 +36,14 @@ Enter your YouTube video information:
 
 | **NOTE** |
 | --- |
-| For Youtube Shorts, change the part of the URL that reads **/shorts****/**to instead read **/embed/**.Example:  [https://youtube.com/shorts/BUXczOFByAU?si\=TO8RGfmokQMdsI6R](https://youtube.com/shorts/BUXczOFByAU?si=TO8RGfmokQMdsI6R)  becomes [https://youtube.com/embed/BUXczOFByAU?si\=TO8RGfmokQMdsI6R](https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R)This will allow Youtube Shorts to display in OptiSigns. |
+| For Youtube Shorts, change the part of the URL that reads **/shorts/**.Example:  [https://youtube.com/shorts/BUXczOFByAU?si\=TO8RGfmokQMdsI6R](https://youtube.com/shorts/BUXczOFByAU?si=TO8RGfmokQMdsI6R) becomes [https://](https://www.youtube.com/watch?v=xxxxxx)[www.](https://www.youtube.com/watch?v=xxxxxx)[youtube.com/](https://www.youtube.com/watch?v=xxxxxx)[wat](https://www.youtube.com/watch?v=xxxxxx)[c](https://www.youtube.com/watch?v=xxxxxx)[h](https://www.youtube.com/watch?v=xxxxxx)[?](https://www.youtube.com/watch?v=xxxxxx)[v](https://www.youtube.com/watch?v=xxxxxx)[\=](https://www.youtube.com/watch?v=xxxxxx)[BUXczOFByAU](https://youtube.com/shorts/BUXczOFByAU?si=TO8RGfmokQMdsI6R)This will allow Youtube Shorts to display in OptiSigns. |
 
 - **Caption**: If the YouTube video has closed caption, the app will show it. Note: closed caption must be created by the YouTube video author, auto generated caption may not work.
 
 Click Save.
 After Saving, you can Preview the video to verify.
 
-## **That's all! Congratulations!**
+ ## **That's all! Congratulations!**
 
 You have added a YouTube video.
 
