@@ -35,14 +35,14 @@
     "upload_provider": "gemini-file-search",
     "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/howtoaddcaptionstovimeovide-fzgqfjn2hrsq"
   },
-  "https://support.optisigns.com/hc/en-us/articles/24338756617747-What-Are-Feeds-and-How-to-Use-It": {
-    "content_hash": "d785442247c96f572d6359d4a2de613ec377291907a5fa1b73031588a2463cc3",
-    "path": "data/markdown/what-are-feeds-and-how-to-use-it.md",
-    "slug": "what-are-feeds-and-how-to-use-it",
-    "source_updated_at": "2024-05-28T14:11:46Z",
-    "title": "What Are Feeds and How to Use It",
+  "https://support.optisigns.com/hc/en-us/articles/24338756617747-Feeds-and-How-to-Use-Them": {
+    "content_hash": "e9c0e347a022e66c1c87a175a9416ffbd901aae4159325c20640007b49a0266d",
+    "path": "data/markdown/feeds-and-how-to-use-them.md",
+    "slug": "feeds-and-how-to-use-them",
+    "source_updated_at": "2026-09-09T21:11:45Z",
+    "title": "Feeds and How to Use Them",
     "upload_provider": "gemini-file-search",
-    "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/whatarefeedsandhowtouseitmd-5e12w8b9k9ld"
+    "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/feedsandhowtousethemmd-g998l3dgmztl"
   },
   "https://support.optisigns.com/hc/en-us/articles/28421615261971-Roku-Troubleshooting-guide": {
     "content_hash": "1fb745cdb8f656bfb7ceb30c148ecacd1b8a33889abf081d45a61639e8db6bcb",
@@ -72,13 +72,13 @@
     "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/performancestabilityissueso-j2ot0rpxxwbc"
   },
   "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan": {
-    "content_hash": "d0355d85365893ed590bc7a903771a924700203562c7c9f74a6288de7c2428df",
+    "content_hash": "58a0ff2884fd3b981f43c1681925702abef83efe6d331b933d36c63d3cdb5ad0",
     "path": "data/markdown/what-do-i-get-with-an-optisigns-free-plan.md",
     "slug": "what-do-i-get-with-an-optisigns-free-plan",
-    "source_updated_at": "2026-09-03T14:57:58Z",
+    "source_updated_at": "2026-09-07T09:17:18Z",
     "title": "What Do I Get With an OptiSigns Free Plan?",
     "upload_provider": "gemini-file-search",
-    "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/whatdoigetwithanoptisignsfr-tr2k4sdham02"
+    "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/whatdoigetwithanoptisignsfr-w96luzf4b3vv"
   },
   "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-add-use-Vimeo-video-with-OptiSigns": {
     "content_hash": "7077db15354ab6a11a620b5613a3f7b8e7e82bba0a104ad31926033cd4e99cdd",
