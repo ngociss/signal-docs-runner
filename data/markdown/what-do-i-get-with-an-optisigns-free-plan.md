@@ -1,7 +1,7 @@
 ---
 title: "What Do I Get With an OptiSigns Free Plan?"
 article_url: "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan"
-source_updated_at: "2026-09-07T09:17:18Z"
+source_updated_at: "2026-10-07T22:30:11Z"
 ---
 
 # What Do I Get With an OptiSigns Free Plan?
@@ -48,6 +48,7 @@ The Free Plan is **ONLY** supported on these devices:
 
 - OptiSigns Android Player
 - OptiSigns Pro or ProMax Player
+- OptiKiosk (any version)
 - Windows Devices
 - Linux Devices
 - Raspberry Pi
