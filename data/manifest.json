@@ -26,15 +26,6 @@
     "upload_provider": "gemini-file-search",
     "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/howtousestreamingappwithopt-h7erhr2o4bf6"
   },
-  "https://support.optisigns.com/hc/en-us/articles/18500083191059-How-to-add-captions-to-Vimeo-videos": {
-    "content_hash": "ccbfa3b1d905f3206169df9a86b0b6505d5a91259b08763ecbace051f282f82a",
-    "path": "data/markdown/how-to-add-captions-to-vimeo-videos.md",
-    "slug": "how-to-add-captions-to-vimeo-videos",
-    "source_updated_at": "2024-02-19T04:35:44Z",
-    "title": "How to add captions to Vimeo videos",
-    "upload_provider": "gemini-file-search",
-    "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/howtoaddcaptionstovimeovide-fzgqfjn2hrsq"
-  },
   "https://support.optisigns.com/hc/en-us/articles/24338756617747-Feeds-and-How-to-Use-Them": {
     "content_hash": "e9c0e347a022e66c1c87a175a9416ffbd901aae4159325c20640007b49a0266d",
     "path": "data/markdown/feeds-and-how-to-use-them.md",
@@ -71,6 +62,15 @@
     "upload_provider": "gemini-file-search",
     "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/performancestabilityissueso-j2ot0rpxxwbc"
   },
+  "https://support.optisigns.com/hc/en-us/articles/29792081890323-Guide-for-Creating-Content-with-OptiSigns": {
+    "content_hash": "f4cc980eed20a75eb04fed7c20a26c4d934646739b3214c79cb4ca6407e30258",
+    "path": "data/markdown/guide-for-creating-content-with-optisigns.md",
+    "slug": "guide-for-creating-content-with-optisigns",
+    "source_updated_at": "2026-05-21T17:52:16Z",
+    "title": "Guide for Creating Content with OptiSigns",
+    "upload_provider": "gemini-file-search",
+    "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/guideforcreatingcontentwith-u8i13dlfg304"
+  },
   "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan": {
     "content_hash": "b20dd6750d542f38811e34f00644b94b4c334f26f2cbde3feb43b00143bcaf2d",
     "path": "data/markdown/what-do-i-get-with-an-optisigns-free-plan.md",
@@ -80,14 +80,14 @@
     "upload_provider": "gemini-file-search",
     "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/whatdoigetwithanoptisignsfr-leekqsq3layv"
   },
-  "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-add-use-Vimeo-video-with-OptiSigns": {
-    "content_hash": "7077db15354ab6a11a620b5613a3f7b8e7e82bba0a104ad31926033cd4e99cdd",
-    "path": "data/markdown/how-to-add-use-vimeo-video-with-optisigns.md",
-    "slug": "how-to-add-use-vimeo-video-with-optisigns",
-    "source_updated_at": "2024-02-18T15:01:27Z",
-    "title": "How to add & use Vimeo video with OptiSigns",
+  "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns": {
+    "content_hash": "4eb75bdfe61413f2f940fc64ec3248ef8eef27de8d1735a569af3fd42dee7ab1",
+    "path": "data/markdown/how-to-display-vimeo-videos-with-optisigns.md",
+    "slug": "how-to-display-vimeo-videos-with-optisigns",
+    "source_updated_at": "2026-10-13T17:40:14Z",
+    "title": "How to Display Vimeo Videos with OptiSigns",
     "upload_provider": "gemini-file-search",
-    "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/howtoaddusevimeovideowithop-vjgxq362lbac"
+    "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/howtodisplayvimeovideoswith-aooeq3rlppaj"
   },
   "https://support.optisigns.com/hc/en-us/articles/360016342373-What-types-of-files-are-supported": {
     "content_hash": "1bb11a45ef3110598f7cb9a39f5e13a2f50fd6f21997a0c01b6534c0c7e071c1",
@@ -152,14 +152,14 @@
     "upload_provider": "gemini-file-search",
     "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/howfarbackorhowmanypostswil-4jk3d0kutcg0"
   },
-  "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-use-Twitch-App": {
-    "content_hash": "b8441c7637cf7f9d1c845235f8e51ddb4fcead58d5b731723200000e7b066c62",
-    "path": "data/markdown/how-to-use-twitch-app.md",
-    "slug": "how-to-use-twitch-app",
-    "source_updated_at": "2024-02-18T15:03:05Z",
-    "title": "How to use Twitch App",
+  "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-Use-the-Twitch-App": {
+    "content_hash": "c052277505253919ef8dab1131c3147b4a919ed735e0d9c253023e9c15c39493",
+    "path": "data/markdown/how-to-use-the-twitch-app.md",
+    "slug": "how-to-use-the-twitch-app",
+    "source_updated_at": "2026-10-13T17:00:14Z",
+    "title": "How to Use the Twitch App",
     "upload_provider": "gemini-file-search",
-    "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/howtousetwitchappmd-zsq3888wmon2"
+    "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/howtousethetwitchappmd-7yj07ch4nzt7"
   },
   "https://support.optisigns.com/hc/en-us/articles/360050855313-How-to-link-Instagram-Business-or-Creator-Account-to-Facebook-Account": {
     "content_hash": "a04d595235083ee52c6a63e8c82fad5921fcf445b78647d888c3d2b79c7a265c",
