@@ -1,7 +1,7 @@
 ---
 title: "What Do I Get With an OptiSigns Free Plan?"
 article_url: "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan"
-source_updated_at: "2026-10-08T16:57:16Z"
+source_updated_at: "2026-10-28T15:43:14Z"
 ---
 
 # What Do I Get With an OptiSigns Free Plan?
@@ -129,7 +129,6 @@ You will lose access to certain features that are not available on a Free plan, 
 - Instagram Business
 - LinkedIn
 - Social Mix
-- X (Twitter)
 - YouTube Playlist
 - YouTube Channel
 - YouTube Live Schedule
