@@ -125,14 +125,14 @@
     "upload_provider": "gemini-file-search",
     "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/howtouseembedappmd-fln0ykioi7v2"
   },
-  "https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku": {
-    "content_hash": "8aa96a2ed5ec206b7715c45039bd41ce6dc0225915586c59c62e7e1a09f6bae6",
-    "path": "data/markdown/how-to-install-optisigns-as-channel-app-on-roku.md",
-    "slug": "how-to-install-optisigns-as-channel-app-on-roku",
-    "source_updated_at": "2024-06-20T21:35:56Z",
-    "title": "How to install OptiSigns as channel/app on Roku",
+  "https://support.optisigns.com/hc/en-us/articles/360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku": {
+    "content_hash": "a1f91a282dcb2a9ded3e8a32542e9d8422f94670025dc388ae91438c592bd62a",
+    "path": "data/markdown/install-optisigns-as-channel-or-app-on-roku.md",
+    "slug": "install-optisigns-as-channel-or-app-on-roku",
+    "source_updated_at": "2026-10-29T16:45:01Z",
+    "title": "Install OptiSigns as Channel or App on Roku",
     "upload_provider": "gemini-file-search",
-    "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/howtoinstalloptisignsaschan-4xdve2mexnj4"
+    "uploaded_file_id": "fileSearchStores/signaldocsrunner-cuuhnsoka6h9/upload/operations/installoptisignsaschannelor-ay0vd0wj20mz"
   },
   "https://support.optisigns.com/hc/en-us/articles/360042143333-Roku-Release-Notes-Limitation": {
     "content_hash": "9f5276b3d049e1d03382eca0ae74885ba32d41aace8a158dd7651bf6e8c9bd52",
