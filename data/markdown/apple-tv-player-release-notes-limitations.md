@@ -1,7 +1,7 @@
 ---
 title: "Apple TV player release notes & limitations"
 article_url: "https://support.optisigns.com/hc/en-us/articles/6605515731603-Apple-TV-player-release-notes-limitations"
-source_updated_at: "2025-12-31T22:07:40Z"
+source_updated_at: "2026-11-25T17:53:45Z"
 ---
 
 # Apple TV player release notes & limitations
@@ -30,3 +30,12 @@ There are a few notes in running Apple TV as digital signage player.
 [**Learn how to install \& use OptiSigns Player app on Apple TV.**](https://support.optisigns.com/hc/en-us/articles/6636047009427)
 
 If you have further questions, or feedback please send us an email at [support@optisigns.com](mailto:support@optisigns.com).
+
+---
+
+## Related Articles
+
+- [How to install OptiSigns Player on Apple TV](https://support.optisigns.com/hc/en-us/articles/6636047009427?ref=related)
+- [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)
+- [Configuring Mass Deployment with Jamf Pro MDM on Apple Devices](https://support.optisigns.com/hc/en-us/articles/31695220475283?ref=related)
+- [Video Codec or Video Playback Issues and How to Re\-encode Videos](https://support.optisigns.com/hc/en-us/articles/360038992973?ref=related)

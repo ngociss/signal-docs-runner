@@ -1,7 +1,7 @@
 ---
 title: "Install OptiSigns as Channel or App on Roku"
 article_url: "https://support.optisigns.com/hc/en-us/articles/360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku"
-source_updated_at: "2026-10-29T16:45:01Z"
+source_updated_at: "2026-11-25T17:57:09Z"
 ---
 
 # Install OptiSigns as Channel or App on Roku

@@ -1,7 +1,7 @@
 ---
 title: "How to Moderate Your Social Media Feeds"
 article_url: "https://support.optisigns.com/hc/en-us/articles/4403015887763-How-to-Moderate-Your-Social-Media-Feeds"
-source_updated_at: "2026-10-19T20:31:53Z"
+source_updated_at: "2026-11-25T18:00:52Z"
 ---
 
 # How to Moderate Your Social Media Feeds
@@ -91,6 +91,15 @@ Your changes apply as soon as you make them. Close the window when you are done.
 | **NOTE** |
 | --- |
 | If you use the [Social Mix](https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-Use-the-Social-Mix-App) app, posts you hide or delete in a source app are also removed from your Social Mix. |
+
+---
+
+## Related Articles
+
+- [How far back or how many posts will be fetched for my Social Walls?](https://support.optisigns.com/hc/en-us/articles/360042424294?ref=related)
+- [How to Use the Social Mix App](https://support.optisigns.com/hc/en-us/articles/4403267825171?ref=related)
+- [Feeds and How to Use Them](https://support.optisigns.com/hc/en-us/articles/24338756617747?ref=related)
+- [Using the X Social App / Add\-On](https://support.optisigns.com/hc/en-us/articles/55709616003219?ref=related)
 
 ### That’s all!
 

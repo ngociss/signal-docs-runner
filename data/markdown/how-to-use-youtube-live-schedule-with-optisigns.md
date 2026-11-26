@@ -1,7 +1,7 @@
 ---
 title: "How to use YouTube Live Schedule with OptiSigns"
 article_url: "https://support.optisigns.com/hc/en-us/articles/360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns"
-source_updated_at: "2026-01-22T15:44:40Z"
+source_updated_at: "2026-11-25T18:06:41Z"
 ---
 
 # How to use YouTube Live Schedule with OptiSigns

@@ -1,7 +1,7 @@
 ---
 title: "Show Offline Indicator Feature"
 article_url: "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-Feature"
-source_updated_at: "2026-11-05T22:21:11Z"
+source_updated_at: "2026-11-25T18:04:05Z"
 ---
 
 # Show Offline Indicator Feature
@@ -63,6 +63,16 @@ The device doesn't support the offline indicator. It isn't offered on Roku, Brig
 #### The Indicator Doesn't Appear Right Away
 
 The indicator waits about 1 minute after the connection drops before it appears. If the connection comes back within that minute, it doesn't appear at all.
+
+---
+
+## Related Articles
+
+- [Why Does My Screen Show as "Offline" on the Web Portal?](https://support.optisigns.com/hc/en-us/articles/360016484473?ref=related)
+- [Show/Hide downloading status on your Player](https://support.optisigns.com/hc/en-us/articles/12947300131731?ref=related)
+- [How to set up Monitoring Alert feature](https://support.optisigns.com/hc/en-us/articles/4403306341523?ref=related)
+- [Edit Screen: What does each option do?](https://support.optisigns.com/hc/en-us/articles/360048914673?ref=related)
+- [Synchronized playback (Sync Play) feature](https://support.optisigns.com/hc/en-us/articles/4412065189267?ref=related)
 
 ### That’s all!
 

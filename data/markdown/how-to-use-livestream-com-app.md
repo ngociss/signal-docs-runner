@@ -1,7 +1,7 @@
 ---
 title: "How to use livestream.com app"
 article_url: "https://support.optisigns.com/hc/en-us/articles/4410655948563-How-to-use-livestream-com-app"
-source_updated_at: "2024-02-18T15:01:59Z"
+source_updated_at: "2026-11-25T18:05:25Z"
 ---
 
 # How to use livestream.com app
@@ -49,6 +49,15 @@ Then paste in the URL field of the Livestream.com app in OptiSigns.
 ![mceclip6.png](https://support.optisigns.com/hc/article_attachments/4410649717523)
 
 Click Save.
+
+---
+
+## Related Articles
+
+- [How to use the Video Stream app](https://support.optisigns.com/hc/en-us/articles/8369526604435?ref=related)
+- [How to put Live TV on your screens with OptiSigns](https://support.optisigns.com/hc/en-us/articles/10159088954387?ref=related)
+- [How to use YouTube Live Schedule with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360060284174?ref=related)
+- [How to use Streaming App with OptiSigns](https://support.optisigns.com/hc/en-us/articles/16364134190355?ref=related)
 
 ## **That's all! Congratulation!**
 

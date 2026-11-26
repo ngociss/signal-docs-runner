@@ -1,7 +1,7 @@
 ---
 title: "How to use Embed App"
 article_url: "https://support.optisigns.com/hc/en-us/articles/360035815114-How-to-use-Embed-App"
-source_updated_at: "2024-04-26T07:02:08Z"
+source_updated_at: "2026-11-25T18:09:38Z"
 ---
 
 # How to use Embed App
@@ -33,3 +33,13 @@ Then give it a name and paste your embed code there.
 Now, you can assign this newly created asset to your screens to display, or you can also use it in playlists, schedules, etc like any other assets. If you need more information on how to set up \& assign content to your screens [click here](https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-set-up-Digital-Signs-with-OptiSigns-and-Amazon-Fire-TV).
 
 If you have feedback on how to make the how\-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+- [How to Use the Website App and Display URLs on OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016382473?ref=related)
+- [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362?ref=related)
+- [How to Use the Advanced Website App](https://support.optisigns.com/hc/en-us/articles/5149077938835?ref=related)
+- [Host your HTML/JS or Create your own Web App with Hosted Website](https://support.optisigns.com/hc/en-us/articles/7592123111699?ref=related)
+- [How to use Scrolling Website App](https://support.optisigns.com/hc/en-us/articles/360056356414?ref=related)

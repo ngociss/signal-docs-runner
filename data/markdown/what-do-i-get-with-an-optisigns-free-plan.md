@@ -1,7 +1,7 @@
 ---
 title: "What Do I Get With an OptiSigns Free Plan?"
 article_url: "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan"
-source_updated_at: "2026-11-19T18:08:55Z"
+source_updated_at: "2026-11-25T17:31:29Z"
 ---
 
 # What Do I Get With an OptiSigns Free Plan?
@@ -134,6 +134,16 @@ Yes, at any time. See [Billing: Changing Plans or Screen Counts](https://support
 #### Can I Cancel Instead of Moving to the Free Plan?
 
 Yes. See [Cancel, Pause or Downgrade Your Subscription](https://support.optisigns.com/hc/en-us/articles/17639078588691).
+
+---
+
+## Related Articles
+
+- [Where to Buy OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/32129032857875?ref=related)
+- [Getting Started with an OptiSigns Free Trial](https://support.optisigns.com/hc/en-us/articles/37966066335891?ref=related)
+- [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782?ref=related)
+- [What hardware and devices are supported?](https://support.optisigns.com/hc/en-us/articles/360021855653?ref=related)
+- [OptiSigns \- Getting Started Guide](https://support.optisigns.com/hc/en-us/articles/18823504383891?ref=related)
 
 ### That’s all!
 

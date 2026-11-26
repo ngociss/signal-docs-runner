@@ -1,7 +1,7 @@
 ---
 title: "Performance/Stability issues on Android devices and Best Practices"
 article_url: "https://support.optisigns.com/hc/en-us/articles/28427819992979-Performance-Stability-issues-on-Android-devices-and-Best-Practices"
-source_updated_at: "2024-04-30T19:26:52Z"
+source_updated_at: "2026-11-25T17:32:37Z"
 ---
 
 # Performance/Stability issues on Android devices and Best Practices
@@ -35,3 +35,12 @@ To make your Android TV devices running stable and smooth, we recommend you foll
 ## Recommendation
 
 Android TV devices are not rated as commercial grade hardware, and are normally not very powerful. If your use cases require 3\+ more zones, multiple heavy content at a time, or keep your digital signage contents running 24x7\. Please consider using professional grade devices, such as the [OptiSigns Pro Player](https://www.optisigns.com/product/hardware) or other windows, Linux devices that more powerful and industrial/commercial grade rated. These devices are more robust hardware which are built to handle heavy content and can be played continuously for longer duration.
+
+---
+
+## Related Articles
+
+- [Resolve Autostart issues on your Android TV devices](https://support.optisigns.com/hc/en-us/articles/1500009937122?ref=related)
+- [How to Fix the Scaling Issue on OptiSigns Android Devices](https://support.optisigns.com/hc/en-us/articles/28026588373139?ref=related)
+- [Video Codec or Video Playback Issues and How to Re\-encode Videos](https://support.optisigns.com/hc/en-us/articles/360038992973?ref=related)
+- [OptiStick Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/40147900639891?ref=related)

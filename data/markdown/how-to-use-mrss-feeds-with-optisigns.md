@@ -1,7 +1,7 @@
 ---
 title: "How to use MRSS feeds with OptiSigns"
 article_url: "https://support.optisigns.com/hc/en-us/articles/4409448788499-How-to-use-MRSS-feeds-with-OptiSigns"
-source_updated_at: "2024-02-18T15:28:48Z"
+source_updated_at: "2026-11-25T18:05:36Z"
 ---
 
 # How to use MRSS feeds with OptiSigns
@@ -45,6 +45,15 @@ Enter your MRSS feed information:
 
 Click Save.
 Depend on how many items in your MRSS Feed, **it may take a moment** to fetch the MRSS items and prepare your feed, so please be patient.
+
+---
+
+## Related Articles
+
+- [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
+- [Feeds and How to Use Them](https://support.optisigns.com/hc/en-us/articles/24338756617747?ref=related)
+- [How to use the CNN Wall App](https://support.optisigns.com/hc/en-us/articles/360041476213?ref=related)
+- [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
 
 ## **That's all! Congratulation!**
 

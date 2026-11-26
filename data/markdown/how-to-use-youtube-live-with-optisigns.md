@@ -1,7 +1,7 @@
 ---
 title: "How to use YouTube Live with OptiSigns"
 article_url: "https://support.optisigns.com/hc/en-us/articles/1500002131621-How-to-use-YouTube-Live-with-OptiSigns"
-source_updated_at: "2024-02-18T15:03:33Z"
+source_updated_at: "2026-11-25T18:06:30Z"
 ---
 
 # How to use YouTube Live with OptiSigns

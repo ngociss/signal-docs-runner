@@ -1,7 +1,7 @@
 ---
 title: "Roku Troubleshooting guide"
 article_url: "https://support.optisigns.com/hc/en-us/articles/28421615261971-Roku-Troubleshooting-guide"
-source_updated_at: "2024-04-14T20:02:37Z"
+source_updated_at: "2026-11-25T17:32:44Z"
 ---
 
 # Roku Troubleshooting guide

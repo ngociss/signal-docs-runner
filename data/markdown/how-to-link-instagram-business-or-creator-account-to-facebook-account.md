@@ -1,7 +1,7 @@
 ---
 title: "How to link Instagram Business or Creator Account to Facebook Account"
 article_url: "https://support.optisigns.com/hc/en-us/articles/360050855313-How-to-link-Instagram-Business-or-Creator-Account-to-Facebook-Account"
-source_updated_at: "2025-01-15T15:35:04Z"
+source_updated_at: "2026-11-25T17:58:30Z"
 ---
 
 # How to link Instagram Business or Creator Account to Facebook Account

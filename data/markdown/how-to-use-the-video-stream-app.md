@@ -1,7 +1,7 @@
 ---
 title: "How to use the Video Stream app"
 article_url: "https://support.optisigns.com/hc/en-us/articles/8369526604435-How-to-use-the-Video-Stream-app"
-source_updated_at: "2024-02-18T15:02:33Z"
+source_updated_at: "2026-11-25T18:04:34Z"
 ---
 
 # How to use the Video Stream app
@@ -38,6 +38,16 @@ Here are some free public HLS URLs:
 ```
 
 Click Save to save your asset.
+
+---
+
+## Related Articles
+
+- [How to use Streaming App with OptiSigns](https://support.optisigns.com/hc/en-us/articles/16364134190355?ref=related)
+- [How to use livestream.com app](https://support.optisigns.com/hc/en-us/articles/4410655948563?ref=related)
+- [How to Use RTSP Streams on OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/8098889840531?ref=related)
+- [How to use HDMI \& other video input sources in with OptiSigns](https://support.optisigns.com/hc/en-us/articles/1500002042241?ref=related)
+- [How to put Live TV on your screens with OptiSigns](https://support.optisigns.com/hc/en-us/articles/10159088954387?ref=related)
 
 ## That's all!
 

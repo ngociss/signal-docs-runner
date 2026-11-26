@@ -1,7 +1,7 @@
 ---
 title: "How to use iMovie content with OptiSigns?"
 article_url: "https://support.optisigns.com/hc/en-us/articles/360016494933-How-to-use-iMovie-content-with-OptiSigns"
-source_updated_at: "2024-02-20T08:56:58Z"
+source_updated_at: "2026-11-25T16:57:35Z"
 ---
 
 # How to use iMovie content with OptiSigns?
@@ -25,3 +25,12 @@ In the pop\-up window "Save exported file as...", after entitling the exported v
 ![movie-to-mpeg-4](https://20629229.fs1.hubspotusercontent-na1.net/hubfs/20629229/movie-to-mpeg-4.jpg)
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+- [How to Upload \& Manage Your Files/ Assets](https://support.optisigns.com/hc/en-us/articles/360016247974?ref=related)
+- [Video Codec or Video Playback Issues and How to Re\-encode Videos](https://support.optisigns.com/hc/en-us/articles/360038992973?ref=related)
+- [What types of files are supported?](https://support.optisigns.com/hc/en-us/articles/360016342373?ref=related)
+- [PowerPoint Resolution, Size for use with Digital Signage](https://support.optisigns.com/hc/en-us/articles/360033693534?ref=related)

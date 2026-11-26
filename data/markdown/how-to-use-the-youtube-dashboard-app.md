@@ -1,7 +1,7 @@
 ---
 title: "How to Use the YouTube Dashboard App"
 article_url: "https://support.optisigns.com/hc/en-us/articles/48626115821459-How-to-Use-the-YouTube-Dashboard-App"
-source_updated_at: "2026-01-29T21:02:00Z"
+source_updated_at: "2026-11-25T17:03:44Z"
 ---
 
 # How to Use the YouTube Dashboard App
@@ -144,6 +144,15 @@ Now hit **Save**. Your Google Analytics asset will now display on screen.
 | You may need to alter the Width and Height on the Embed Code to get it to display exactly the way you want it. Be sure to push it to the intended screen first to test it \- the Preview sometimes looks odd. |
 
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a Playlist or Schedule.
+
+---
+
+## Related Articles
+
+- [How to Use the Google Search Console App](https://support.optisigns.com/hc/en-us/articles/48656950622227?ref=related)
+- [How to Use the Google Ads Dashboard App](https://support.optisigns.com/hc/en-us/articles/48751096814995?ref=related)
+- [How to Use YouTube with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360051014713?ref=related)
+- [How to use YouTube Channel with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360060202914?ref=related)
 
 ### That's all!
 

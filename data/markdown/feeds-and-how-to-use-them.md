@@ -1,7 +1,7 @@
 ---
 title: "Feeds and How to Use Them"
 article_url: "https://support.optisigns.com/hc/en-us/articles/24338756617747-Feeds-and-How-to-Use-Them"
-source_updated_at: "2026-09-09T21:11:45Z"
+source_updated_at: "2026-11-25T17:33:23Z"
 ---
 
 # Feeds and How to Use Them
@@ -69,3 +69,13 @@ Each feed has a recommended duration. This way it helps keep the screen fresh, n
 | The Warehouse \- Slip, Trip, \& Fall Prevention feed totals about 7 minutes across 13 items, and its recommended duration is 30s. In a playlist, the feed plays for 30s and then hands off to the next item. The next time the playlist loops back, the feed resumes where it left off and continues through its remaining content, until it reaches the end — then it starts over. |
 
 ## That's it!
+
+---
+
+## Related Articles
+
+- [How to Create \& Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843?ref=related)
+- [How to Use the Emergency Feed App](https://support.optisigns.com/hc/en-us/articles/4409673381011?ref=related)
+- [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)
+- [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
+- [How to use MRSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4409448788499?ref=related)

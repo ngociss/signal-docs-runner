@@ -1,7 +1,7 @@
 ---
 title: "How to Use YouTube with OptiSigns"
 article_url: "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
-source_updated_at: "2026-10-30T20:43:53Z"
+source_updated_at: "2026-11-25T18:07:32Z"
 ---
 
 # How to Use YouTube with OptiSigns
